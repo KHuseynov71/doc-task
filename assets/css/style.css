@@ -1,0 +1,11 @@
+input {
+    margin-left: 5%;
+    
+}
+button{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.showinfo{
+    border: 2px black solid;
+}
